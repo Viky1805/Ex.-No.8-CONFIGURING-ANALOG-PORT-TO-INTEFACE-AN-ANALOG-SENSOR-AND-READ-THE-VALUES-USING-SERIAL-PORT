@@ -463,9 +463,6 @@ Hence,the configuring analog port to inteface an analog sensor and read the valu
 ![WhatsApp Image 2025-11-06 at 09 00 16_4d66f8ea](https://github.com/user-attachments/assets/50a22058-bf0c-44d7-bf83-a6589a088929)
 
 
-<img width="1919" height="1113" alt="image" src="https://github.com/user-attachments/assets/b48288b1-9c0f-4b0e-bbf3-fb39db6bc7e7" />
-
-
 <img width="1919" height="1113" alt="image" src="https://github.com/user-attachments/assets/f6012286-019f-45f0-adce-9c7b8017805c" />
 
 
